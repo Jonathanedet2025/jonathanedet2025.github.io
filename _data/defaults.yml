@@ -1,4 +1,4 @@
 home:
   heading: "Jonathan Edet, the Tech Expert"
   subheading: "Land a Tech job in just six month"
-  banner: "your awesome url"
+  banner:yaml<br>banner:/assets/images/banners/my-banner.jpg<br>
