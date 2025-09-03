@@ -26,7 +26,7 @@
 
 title: "Cyber Security Expert"
 email: "jonathanedet91@gmail.com"
-author: "GitHub User"
+author: "Jonathan Edet"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -47,7 +47,7 @@ description: >-I’m a cybersecurity enthusiast with a strong foundation in info
 My goal is to grow as a cybersecurity specialist by continuously learning, staying updated with the latest threat trends, and contributing to building safer, more resilient networks.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "jonathanedet2025.github.io"
 favicon: "" # the favicon for your site
 
 # Yat date format
